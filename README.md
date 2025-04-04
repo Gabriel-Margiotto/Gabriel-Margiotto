@@ -66,7 +66,7 @@ Me chamo Gabriel Margiotto, tenho 23 anos e sou natural de São Paulo, mas moro 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Margiotto&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Margiotto&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>

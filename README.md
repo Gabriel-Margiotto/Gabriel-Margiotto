@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Margiotto, tenho 23 anos e sou natural de São Paulo, mas moro na Bahia desde os meus 14 anos, sou formado em Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e design gráfico, estou no inicio da minha carreira de programação e em busca do meu primeiro emprego na área.
+Me chamo **Gabriel Margiotto**, tenho **23 anos**, sou natural de **São Paulo** e moro na **Bahia** desde os **14**. Sou formado em **Análise e Desenvolvimento de Sistemas** pela **UNIP** e estou no início da minha trajetória na **programação**.
+
+Apaixonado por **tecnologia** e **design gráfico**, venho me dedicando diariamente ao aprendizado e desenvolvimento de **projetos próprios**, buscando sempre evoluir como profissional. Estou em busca da minha **primeira oportunidade na área de tecnologia**, onde eu possa aplicar meus conhecimentos, crescer com o time e contribuir de forma **criativa** e **comprometida**.
 
 <p align="left">
     <a href="https://www.instagram.com/gabriel_margiotto/">

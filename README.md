@@ -7,7 +7,7 @@ Me chamo **Gabriel Margiotto**, tenho **23 anos**, sou natural de **São Paulo**
 Apaixonado por **tecnologia** e **design gráfico**, venho me dedicando diariamente ao aprendizado e desenvolvimento de **projetos próprios**, buscando sempre evoluir como profissional. Estou em busca da minha **primeira oportunidade na área de tecnologia**, onde eu possa aplicar meus conhecimentos, crescer com o time e contribuir de forma **criativa** e **comprometida**.
 
 <p align="left">
-    <a target="_blank" href="https://www.instagram.com/gabriel_margiotto/">
+    <a href="https://www.instagram.com/gabriel_margiotto/" target="_blank">
         <img 
             alt="Instagram" 
             title="Ver Instagram" 
@@ -63,7 +63,7 @@ Apaixonado por **tecnologia** e **design gráfico**, venho me dedicando diariame
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gabriel-Margiotto&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
-
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
